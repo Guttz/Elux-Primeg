@@ -8,7 +8,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "/*\r\nCores:\r\n900: #006064;\r\nAzul mais escuro 800: #00838F\r\nAzul mais claro 700; #0097A7\r\n\r\nDivisores: #cccccc;\r\nquase preto: #383838;\r\n\r\n;\r\n */\r\n \r\n.example-container {\r\n  height: 854px;\r\n}\r\n\r\n.example-sidenav-content {\r\n\tbackground: #f9f9f9;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  -webkit-box-pack: center;\r\n      -ms-flex-pack: center;\r\n          justify-content: center;\r\n}\r\n\r\n.sidenav-buttons{\r\n\tpadding-left: 29px;\r\n\tcolor: white;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-labels{\r\n\tbackground: #00838F;\r\n\tpadding-bottom: 10px;\r\n\tpadding-top: 15px;\r\n\tpadding-left: 10px;\r\n\tbox-sizing: border-box;\r\n\tleft: 10px;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-footer{\r\n\tpadding: 10px;\r\n\tposition:fixed;\r\n\tbottom:0;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.main-sidenav {\r\n  width: 22%;\r\n  background: #0097A7;\r\n}\r\n\r\n.example-card {\r\n\tborder: 2px solid;\r\n\tborder-color: rgba(180,180,180,0.5);\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n.example-card2 {\r\n\tborder: 1px solid;\r\n\tborder-color: #0097A7;\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n\r\n\r\n.card-actions{\r\n\tmargin: 0px;\r\n\tpadding: 0px;\r\n}\r\n\r\n.example-header-image {\r\n  background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/1241-200.png');\r\n  background-size: cover;\r\n}\r\n\r\n.z-depth-1 {\r\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-1-half {\r\n  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-2 {\r\n  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-3 {\r\n  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-4 {\r\n  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-5 {\r\n  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);\r\n}\r\n", ""]);
+exports.push([module.i, "/*\r\nCores:\r\n900: #006064;\r\nAzul mais escuro 800: #00838F\r\nAzul mais claro 700; #0097A7\r\n\r\nDivisores: #cccccc;\r\nquase preto: #383838;\r\n\r\n;\r\n */\r\n \r\n.example-container {\r\n  height: 854px;\r\n}\r\n\r\n.example-sidenav-content {\r\n\tbackground: #f9f9f9;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  -webkit-box-pack: center;\r\n      -ms-flex-pack: center;\r\n          justify-content: center;\r\n  height: 85%;\r\n}\r\n\r\n.sidenav-buttons{\r\n\tpadding-left: 29px;\r\n\tcolor: white;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-labels{\r\n\tbackground: #00838F;\r\n\tpadding-bottom: 10px;\r\n\tpadding-top: 15px;\r\n\tpadding-left: 10px;\r\n\tbox-sizing: border-box;\r\n\tleft: 10px;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-footer{\r\n\tpadding: 10px;\r\n\tposition:fixed;\r\n\tbottom:0;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.main-sidenav {\r\n  width: 22%;\r\n  background: #0097A7;\r\n}\r\n\r\n.example-card {\r\n\tborder: 2px solid;\r\n\tborder-color: rgba(180,180,180,0.5);\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n.example-card2 {\r\n\tborder: 1px solid;\r\n\tborder-color: #0097A7;\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n\r\n\r\n.card-actions{\r\n\tmargin: 0px;\r\n\tpadding: 0px;\r\n}\r\n\r\n.example-header-image {\r\n  background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/1241-200.png');\r\n  background-size: cover;\r\n}\r\n\r\n.z-depth-1 {\r\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-1-half {\r\n  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-2 {\r\n  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-3 {\r\n  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-4 {\r\n  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-5 {\r\n  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);\r\n}\r\n", ""]);
 
 // exports
 
@@ -21,7 +21,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/dashboard/controladoria-dash/controladoria-dash.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<mat-toolbar class=\"item-toolbar\" style=\"background: #00838F; color: white; margin: 4px;\">\n      <span>Frequent Tools</span>\n    </mat-toolbar>\n\n<div class=\"example-sidenav-content\" fxLayout=\"row\" fxLayoutAlign=\"space-around start\">\n\n<!-- \t\t\t<iframe width=\"1600\" height=\"1000\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIxZWNjODctOWYxOC00YTQwLThkNjctMjc2MWIyMjg2NjViIiwidCI6ImQ1ZWEwMTEwLWNmZTUtNDM5Yi1hOTQ3LWFhMjdjZDU2ZjA2NyJ9\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>\n -->\n\n\t\t\t<mat-card class=\"example-card\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #cccccc;\">\n\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title>Extração de dados</mat-card-title>\n\n\t\t\t    <mat-card-subtitle>Tempo estimado: 40 minutos. </mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tExtração de todos os itens do people e inserção em planilha.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button routerLink=\"/dashboard/extractForm\" (click)=\"extracaoDados()\" mat-button style=\"background: #383838; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n\n\t\t\t<mat-card class=\"example-card2\" style=\"color: #006064\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #006064;\">\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title style=\"color: #006064\">Extração de dados</mat-card-title>\n\n\t\t\t    <mat-card-subtitle style=\"color: #00838F\">Tempo estimado: 40 minutos.</mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tExtração de todos os itens do people e inserção em planilha.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button mat-button style=\"background: #006064; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n\n\n  \t\t</div>\n\n  \t\t\t<div class=\"example-sidenav-content\" fxLayout=\"row\" fxLayoutAlign=\"space-around start\">\n\n\n  \t\t\t<mat-card class=\"example-card2\" style=\"color: #006064\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #006064;\">\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title style=\"color: #006064\">Relatório de Divergência</mat-card-title>\n\n\t\t\t    <mat-card-subtitle style=\"color: #00838F\">Tempo estimado: 15 minutos.</mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tExtração de todos os itens do people e inserção em planilha.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button mat-button style=\"background: #006064; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n\n\t\t\t<mat-card class=\"example-card\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #cccccc;\">\n\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title>Agregação SKUs</mat-card-title>\n\n\t\t\t    <mat-card-subtitle>Tempo estimado: 60 minutos.</mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tExtração de todos os itens do people e inserção em planilha.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button mat-button style=\"background: #383838; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n  \t\t</div>\n"
+module.exports = "<mat-toolbar class=\"item-toolbar\" style=\"background: #00838F; color: white; border: 0px; border-left: 4px; border-top: 4px; border-style: solid; border-color: white;\">\n      <span>Frequent Tools</span>\n </mat-toolbar>\n \n<div class=\"example-sidenav-content\" fxLayout=\"row\" fxLayoutAlign=\"space-around center\">\n\t\n\n\t\t\t<mat-card class=\"example-card\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #cccccc;\">\n\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title>Extração de dados</mat-card-title>\n\n\t\t\t    <mat-card-subtitle>Tempo estimado: 40 minutos. </mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tExtração de todos os itens do people e inserção em planilha.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button routerLink=\"/dashboard/extractForm\" (click)=\"extracaoDados()\" mat-button style=\"background: #383838; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n\n  \t\t\t<mat-card class=\"example-card2\" style=\"color: #006064\">\n\t\t\t  <mat-card-header style=\"border-bottom: 1px solid #006064;\">\n\t\t\t    <div mat-card-avatar class=\"fa fa-cog\" style=\"font-size: 290%; height: 60px;\"></div>\n\t\t\t    <mat-card-title style=\"color: #006064\">Envio de Pedidos</mat-card-title>\n\n\t\t\t    <mat-card-subtitle style=\"color: #00838F\">Tempo estimado: 1 minuto.</mat-card-subtitle>\n\t\t\t  </mat-card-header>\n\n\t\t\t  <div fxLayoutAlign=\"space-around center\" style=\"padding-top: 10px; padding-bottom: 10px;\">\n\t\t\t  <img align = \"middle\" src=\"http://www.winsdata.com.br/images/canal_servicos/06-captura_imagem.jpg\" style=\"max-height: 240px; max-width: 240px;\">\n\t\t\t  </div>\n\t\t\t  \t<mat-card-content >\n\t\t\t    <p>\n\t\t\t    \tVerificação da aprovação e envio dos pedidos aprovados.\n\t\t\t    </p>\n\t\t\t  </mat-card-content>\n\t\t\t  <mat-card-actions>\n\t\t\t    <button mat-button style=\"background: #006064; color: white; width: 100%; margin: 0px; border: 0px;\" >Iniciar</button>\n\t\t\t  </mat-card-actions>\n\t\t\t</mat-card>\n\n</div>"
 
 /***/ }),
 
@@ -73,6 +73,8 @@ var ControladoriaDashComponent = (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__controladoria_dash_controladoria_dash_component__ = __webpack_require__("../../../../../src/app/dashboard/controladoria-dash/controladoria-dash.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__extract_form_extract_form_component__ = __webpack_require__("../../../../../src/app/dashboard/extract-form/extract-form.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__dashboard_component__ = __webpack_require__("../../../../../src/app/dashboard/dashboard.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__notdeveloped_notdeveloped_component__ = __webpack_require__("../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__envio_pedidos_envio_pedidos_component__ = __webpack_require__("../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -84,14 +86,17 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 
+
+
 var dashRoutes = [
     {
         path: '',
         component: __WEBPACK_IMPORTED_MODULE_4__dashboard_component__["a" /* DashboardComponent */],
         children: [
-            { path: '', redirectTo: '/dashboard/controladoriaDash', pathMatch: 'full' },
-            { path: 'controladoriaDash', component: __WEBPACK_IMPORTED_MODULE_2__controladoria_dash_controladoria_dash_component__["a" /* ControladoriaDashComponent */] },
+            { path: '', component: __WEBPACK_IMPORTED_MODULE_2__controladoria_dash_controladoria_dash_component__["a" /* ControladoriaDashComponent */] },
             { path: 'extractForm', component: __WEBPACK_IMPORTED_MODULE_3__extract_form_extract_form_component__["a" /* ExtractFormComponent */] },
+            { path: 'notdev', component: __WEBPACK_IMPORTED_MODULE_5__notdeveloped_notdeveloped_component__["a" /* NotdevelopedComponent */] },
+            { path: 'envioPedidos', component: __WEBPACK_IMPORTED_MODULE_6__envio_pedidos_envio_pedidos_component__["a" /* EnvioPedidosComponent */] },
         ]
     }
 ];
@@ -119,7 +124,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "/*\r\nCores:\r\n900: #006064;\r\nAzul mais escuro 800: #00838F\r\nAzul mais claro 700; #0097A7\r\n\r\nDivisores: #cccccc;\r\nquase preto: #383838;\r\n\r\n;\r\n */\r\n.example-container {\r\n  height: 854px;\r\n}\r\n\r\n.example-sidenav-content {\r\n\tbackground: #f9f9f9;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  -webkit-box-pack: center;\r\n      -ms-flex-pack: center;\r\n          justify-content: center;\r\n}\r\n\r\n.sidenav-buttons{\r\n\tpadding-left: 29px;\r\n\tcolor: white;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-labels{\r\n\tbackground: #00838F;\r\n\tpadding-bottom: 10px;\r\n\tpadding-top: 15px;\r\n\tpadding-left: 10px;\r\n\tbox-sizing: border-box;\r\n\tleft: 10px;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-footer{\r\n\tpadding: 10px;\r\n\tposition:fixed;\r\n\tbottom:0;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.main-sidenav {\r\n  width: 22%;\r\n  background: #0097A7;\r\n}\r\n\r\n.example-card {\r\n\tborder: 2px solid;\r\n\tborder-color: rgba(180,180,180,0.5);\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n.example-card2 {\r\n\tborder: 1px solid;\r\n\tborder-color: #0097A7;\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n\r\n\r\n.card-actions{\r\n\tmargin: 0px;\r\n\tpadding: 0px;\r\n}\r\n\r\n.example-header-image {\r\n  background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/1241-200.png');\r\n  background-size: cover;\r\n}\r\n\r\n.z-depth-1 {\r\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-1-half {\r\n  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-2 {\r\n  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-3 {\r\n  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-4 {\r\n  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-5 {\r\n  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);\r\n}\r\n", ""]);
+exports.push([module.i, "/*\r\nCores:\r\n900: #006064;\r\nAzul mais escuro 800: #00838F\r\nAzul mais claro 700; #0097A7\r\n\r\nDivisores: #cccccc;\r\nquase preto: #383838;\r\n\r\n;\r\n */\r\n.example-container {\r\n  height: 854px;\r\n}\r\n\r\n.example-sidenav-content {\r\n\tbackground: #f9f9f9;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  -webkit-box-pack: center;\r\n      -ms-flex-pack: center;\r\n          justify-content: center;\r\n}\r\n\r\n.sidenav-buttons{\r\n\tpadding-left: 29px;\r\n\tcolor: white;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.sidenav-labels{\r\n\tbackground: #00838F;\r\n\tpadding-bottom: 10px;\r\n\tpadding-top: 15px;\r\n\tpadding-left: 10px;\r\n\tbox-sizing: border-box;\r\n\tleft: 10px;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\tborder-bottom: 1px solid #cccccc;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n\tcursor: pointer;\r\n}\r\n\r\n.sidenav-footer{\r\n\tpadding: 10px;\r\n\tposition:fixed;\r\n\tbottom:0;\r\n\tdisplay: inline-block;\r\n\tcolor: white;\r\n\twidth: 100%;\r\n\ttext-align: left;\r\n\tfont-family: \"electroluxSans\";\r\n}\r\n\r\n.main-sidenav {\r\n  width: 22%;\r\n  background: #0097A7;\r\n}\r\n\r\n.example-card {\r\n\tborder: 2px solid;\r\n\tborder-color: rgba(180,180,180,0.5);\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n.example-card2 {\r\n\tborder: 1px solid;\r\n\tborder-color: #0097A7;\r\n\tmargin-top: 30px;\r\n\tbackground: #F0F0F0;\r\n  \twidth: 350px;\r\n  \tfont-family: \"electroluxSans\";\r\n}\r\n\r\n\r\n.card-actions{\r\n\tmargin: 0px;\r\n\tpadding: 0px;\r\n}\r\n\r\n.example-header-image {\r\n  background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/1241-200.png');\r\n  background-size: cover;\r\n}\r\n\r\n.z-depth-1 {\r\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-1-half {\r\n  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);\r\n}\r\n\r\n.z-depth-2 {\r\n  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-3 {\r\n  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-4 {\r\n  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);\r\n}\r\n\r\n.z-depth-5 {\r\n  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);\r\n}\r\n", ""]);
 
 // exports
 
@@ -132,7 +137,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/dashboard/dashboard.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\t<mat-sidenav-container color=\"primary\" class=\"example-container\" >\r\n\t\t<mat-sidenav #sidenav class=\"main-sidenav\" color=\"primary\" opened=\"true\" mode=\"side\">\r\n\r\n\t\t\t<label routerLink=\"/dashboard\" class=\"sidenav-labels\"> <b> Controladoria </b> </label> \r\n\r\n\t    \t<button routerLink=\"/dashboard/extractForm\" mat-button class=\"sidenav-buttons\">Geração de estruturas</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Relatório de divergência</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Extração de dados</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px; padding-bottom: 5px;\">Agregação dos SKUs</button>\r\n\r\n\t    \t<label class=\"sidenav-labels\"> <b> Compradores </b> </label> \r\n\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Relatório de BU</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Twelve Months Plan</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px; padding-bottom: 5px;\">Análise de divergência</button>\r\n\r\n\t    \t<label class=\"sidenav-labels\"> <b> Compradores </b> </label> \r\n \r\n\t    \t<button mat-button class=\"sidenav-buttons\">Relatório de BU</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Twelve Months Plan</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px;\">Análise de divergência</button>\r\n\r\n    \t<div style=\"text-align:center; position:fixed; bottom:0; padding-bottom: 45px;\">\r\n\t \t\t<img align = \"middle\" src=\"assets/icons/elux-name-logo-black2.png\" style=\"max-height: 100%; max-width: 50%;\">\r\n\t \t</div>\r\n\r\n    \t<label class=\"sidenav-footer\"> Optilux v1.0 </label>\r\n\r\n    \t<label class=\"sidenav-footer\" style=\"text-align: right; right: 5px;\"> Gustavo Morais</label> \r\n\r\n\t  \t</mat-sidenav>\r\n\t\t\r\n\t\t<router-outlet></router-outlet>\r\n\r\n\t</mat-sidenav-container>\r\n\t\r\n"
+module.exports = "\t<mat-sidenav-container color=\"primary\" class=\"example-container\" >\r\n\t\t<mat-sidenav #sidenav class=\"main-sidenav\" color=\"primary\" opened=\"true\" mode=\"side\">\r\n\r\n\t\t\t<label class=\"sidenav-labels\"> <b> Indiretos </b> </label> \r\n\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Relatório de Dependências</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Geração de Pedidos</button>\r\n\t    \t<button routerLink=\"/dashboard/envioPedidos\" mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px; padding-bottom: 5px;\">Envio de pedidos</button>\r\n\r\n\r\n\t\t\t<label routerLink=\"/dashboard\" class=\"sidenav-labels\"> <b> Controladoria </b> </label> \r\n\r\n\t    \t<button routerLink=\"/dashboard/extractForm\" mat-button class=\"sidenav-buttons\">Geração de estruturas</button>\r\n\t    \t<button routerLink=\"/dashboard/notdev\" mat-button class=\"sidenav-buttons\">Relatório de divergência</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Extração de dados</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px; padding-bottom: 5px;\">Agregação dos SKUs</button>\r\n\r\n\t    \t<label class=\"sidenav-labels\"> <b> Compradores </b> </label> \r\n \r\n\t    \t<button mat-button class=\"sidenav-buttons\">Relatório de BU</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\">Twelve Months Plan</button>\r\n\t    \t<button mat-button class=\"sidenav-buttons\" style=\"border-bottom: 0px;\">Análise de divergência</button>\r\n\r\n\t    \t<button routerLink=\"/dashboard/notdev\" mat-button class=\"sidenav-buttons\">My tool isn't listed</button>\r\n    \t<div style=\"text-align:center; position:fixed; bottom:0; padding-bottom: 45px;\">\r\n\t \t\t<img align = \"middle\" src=\"assets/icons/elux-name-logo-black2.png\" style=\"max-height: 100%; max-width: 50%;\">\r\n\t \t</div>\r\n\r\n    \t<label class=\"sidenav-footer\"> Optilux v1.0 </label>\r\n\r\n    \t<label class=\"sidenav-footer\" style=\"text-align: right; right: 5px;\"> Gustavo Morais</label> \r\n\r\n\t  \t</mat-sidenav>\r\n\t\t\r\n\t\t<router-outlet></router-outlet>\r\n\r\n\t</mat-sidenav-container>\r\n\t\r\n"
 
 /***/ }),
 
@@ -211,10 +216,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_primeng_primeng__ = __webpack_require__("../../../../primeng/primeng.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_primeng_primeng___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_15_primeng_primeng__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__angular_forms__ = __webpack_require__("../../../forms/esm5/forms.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__controladoria_dash_controladoria_dash_component__ = __webpack_require__("../../../../../src/app/dashboard/controladoria-dash/controladoria-dash.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__extract_form_extract_form_component__ = __webpack_require__("../../../../../src/app/dashboard/extract-form/extract-form.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__dashboard_component__ = __webpack_require__("../../../../../src/app/dashboard/dashboard.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__dashboard_routing_module__ = __webpack_require__("../../../../../src/app/dashboard/dashboard-routing.module.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__notdeveloped_notdeveloped_component__ = __webpack_require__("../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__controladoria_dash_controladoria_dash_component__ = __webpack_require__("../../../../../src/app/dashboard/controladoria-dash/controladoria-dash.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__extract_form_extract_form_component__ = __webpack_require__("../../../../../src/app/dashboard/extract-form/extract-form.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__dashboard_component__ = __webpack_require__("../../../../../src/app/dashboard/dashboard.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__dashboard_routing_module__ = __webpack_require__("../../../../../src/app/dashboard/dashboard-routing.module.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__envio_pedidos_envio_pedidos_component__ = __webpack_require__("../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -236,6 +243,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 
+//Imports from NG PRIME
+
+
+
 
 
 
@@ -249,7 +260,7 @@ var DashboardModule = (function () {
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
             imports: [
                 __WEBPACK_IMPORTED_MODULE_1__angular_common__["CommonModule"],
-                __WEBPACK_IMPORTED_MODULE_20__dashboard_routing_module__["a" /* DashboardRoutingModule */],
+                __WEBPACK_IMPORTED_MODULE_21__dashboard_routing_module__["a" /* DashboardRoutingModule */],
                 __WEBPACK_IMPORTED_MODULE_2__angular_material__["b" /* MatToolbarModule */],
                 __WEBPACK_IMPORTED_MODULE_3__angular_material_sidenav__["a" /* MatSidenavModule */],
                 __WEBPACK_IMPORTED_MODULE_4__angular_material_icon__["a" /* MatIconModule */],
@@ -264,16 +275,80 @@ var DashboardModule = (function () {
                 __WEBPACK_IMPORTED_MODULE_13__angular_material_chips__["a" /* MatChipsModule */],
                 __WEBPACK_IMPORTED_MODULE_14__angular_material_datepicker__["a" /* MatDatepickerModule */],
                 __WEBPACK_IMPORTED_MODULE_15_primeng_primeng__["CalendarModule"],
-                __WEBPACK_IMPORTED_MODULE_16__angular_forms__["FormsModule"]
+                __WEBPACK_IMPORTED_MODULE_16__angular_forms__["FormsModule"],
+                __WEBPACK_IMPORTED_MODULE_15_primeng_primeng__["FileUploadModule"]
             ],
             declarations: [
-                __WEBPACK_IMPORTED_MODULE_17__controladoria_dash_controladoria_dash_component__["a" /* ControladoriaDashComponent */],
-                __WEBPACK_IMPORTED_MODULE_18__extract_form_extract_form_component__["a" /* ExtractFormComponent */],
-                __WEBPACK_IMPORTED_MODULE_19__dashboard_component__["a" /* DashboardComponent */]
+                __WEBPACK_IMPORTED_MODULE_18__controladoria_dash_controladoria_dash_component__["a" /* ControladoriaDashComponent */],
+                __WEBPACK_IMPORTED_MODULE_19__extract_form_extract_form_component__["a" /* ExtractFormComponent */],
+                __WEBPACK_IMPORTED_MODULE_20__dashboard_component__["a" /* DashboardComponent */],
+                __WEBPACK_IMPORTED_MODULE_17__notdeveloped_notdeveloped_component__["a" /* NotdevelopedComponent */],
+                __WEBPACK_IMPORTED_MODULE_22__envio_pedidos_envio_pedidos_component__["a" /* EnvioPedidosComponent */]
             ]
         })
     ], DashboardModule);
     return DashboardModule;
+}());
+
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".item-toolbar{\r\n\tbackground: #f9f9f9;\r\n}\r\n\r\n.send-button{\r\n\tbackground: #0097A7;\r\n\tcolor: white;\r\n\tfloat: right;\r\n\twidth: 25%;\r\n\tmargin-top: 30px;\r\n}\r\n\r\n.timedateadapter{\r\n\tpadding: 0px;\r\n}\r\n\r\n.drop-content{\r\n\tborder-color: #2399E6;\r\n\tborder-style: dotted;\r\n\r\n\theight: 20vh;\r\n\tdisplay: -webkit-flexbox;\r\n    display: -ms-flexbox;\r\n    display: -webkit-box;\r\n    display: flex;\r\n    -webkit-flex-align: center;\r\n    -ms-flex-align: center;\r\n    -webkit-box-align: center;\r\n            align-items: center;\r\n    -webkit-box-pack: center;\r\n        -ms-flex-pack: center;\r\n            justify-content: center;\r\n}", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<mat-toolbar fxLayout=\"row\" fxLayoutAlign=\"center center\" class=\"item-toolbar\" style=\"background: #00838F; color: white; margin: 4px; margin-bottom: 0px;\">\n      <span style=\"color:black; font-size: 250%;\">Orders shipment</span>\n    </mat-toolbar>\n    <mat-toolbar class=\"item-toolbar\" style=\"background: #ffffff; color: black; margin: 4px;margin-top: 20px; font-size: 140%;\">\n      <span> <b> Fill the fields below</b></span>\n    </mat-toolbar>\n\n<div style=\"margin: 2%;\">\n\n    <form class=\"form-center\" fxLayout=\"column\" fxLayoutAlign=\"center stretch\" >\n      \n      <div fxLayout=\"row\" fxLayoutAlign=\"center center\">\n      \t\t<mat-form-field fxFlex>\n        \t\t<input matInput placeholder=\"Order Number\" value=\"\">\n      \t\t</mat-form-field>\n\n      \t\t<mat-form-field fxFlexOffset=\"2\" fxFlex>\n        \t\t<input matInput placeholder=\"BIZ User of Requester\" value=\"\">\n      \t\t</mat-form-field>\n\n      \t\t<mat-form-field fxFlexOffset=\"2\" fxFlex>\n        \t\t<input matInput placeholder=\"Requester email\" value=\"\">\n      \t\t</mat-form-field>\n\n      </div>\n\n      <div fxLayout=\"row\" fxLayoutAlign=\"center center\">\n      \t<mat-form-field fxFlex>\n      \t\t<input matInput placeholder=\"Buyer email\" value=\"\">\n      \t</mat-form-field>\n\n      \t<mat-form-field fxFlexOffset=\"2\" fxFlex>\n      \t\t<input matInput placeholder=\"Supplier Email\" value=\"\">\n      \t</mat-form-field>\n      </div>\n\n\n    </form>\n\n\n      <button mat-button class=\"send-button\">Send</button>\n\n      <div class=\"ui-g-12 ui-md-4 timedateadapter\" >\n          <h4 style=\"color: grey; margin: 10px;\">Scheduling Time</h4>\n          <p-calendar [(ngModel)]=\"date\" [showTime]=\"true\"></p-calendar>\n      </div>\n\n</div>\n\n<mat-toolbar class=\"item-toolbar\" style=\"background: #ffffff; color: black; margin: 4px;padding-top: 40px; padding-bottom: 40px; font-size: 140%;\">\n      <span> <b> Or just upload the default sheet :)</b></span>\n</mat-toolbar>\n\n\n<p-fileUpload name=\"myfile[]\" url=\"./upload.php\">\n        <ng-template pTemplate=\"content\">\n            <div class=\"drop-content\" style=\"padding: 4px;\">\n    \t\t\t<span> <b> Drag your sheet here! </b> </span>\n\t\t\t</div>\n        </ng-template> \n</p-fileUpload>"
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EnvioPedidosComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var EnvioPedidosComponent = (function () {
+    function EnvioPedidosComponent() {
+    }
+    EnvioPedidosComponent.prototype.ngOnInit = function () {
+    };
+    EnvioPedidosComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'app-envio-pedidos',
+            template: __webpack_require__("../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/dashboard/envio-pedidos/envio-pedidos.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], EnvioPedidosComponent);
+    return EnvioPedidosComponent;
 }());
 
 
@@ -335,6 +410,67 @@ var ExtractFormComponent = (function () {
         __metadata("design:paramtypes", [])
     ], ExtractFormComponent);
     return ExtractFormComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".send-button{\r\n\tbackground: #0097A7;\r\n\tcolor: white;\r\n\tfloat: right;\r\n\twidth: 100%;\r\n\tmargin-top: 30px;\r\n}", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<mat-toolbar fxLayout=\"row\" fxLayoutAlign=\"center center\" class=\"item-toolbar\" style=\"background: #00838F; color: white; margin: 4px; margin-bottom: 0px;\">\n      <span style=\"color:black; font-size: 250%;\">Sorry!</span>\n    </mat-toolbar>\n<mat-toolbar fxLayout=\"row\" fxLayoutAlign=\"center center\" class=\"item-toolbar\" style=\"background: #0097A7; color: white; margin: 4px;margin-top: 0px; font-size: 150%;\">\n      <span>This tool was not developed just yet :(</span>\n    </mat-toolbar>\n    <mat-toolbar class=\"item-toolbar\" style=\"background: #ffffff; color: black; margin: 4px;margin-top: 20px; font-size: 140%;\">\n      <span> <b> Could you, please, tell us a little bit about your problem? </b></span>\n    </mat-toolbar>\n\n<div style=\"margin: 30px;\">\n\n\n    <form class=\"form-center\" fxLayout=\"column\" fxLayoutAlign=\"center stretch\" >\n      \n      <mat-form-field class=\"example-full-width\">\n        <input matInput placeholder=\"Name the problem\" value=\"\">\n      </mat-form-field>\n\n      <mat-form-field class=\"example-full-width\">\n        <input matInput placeholder=\"How many colaborators are affected\" value=\"\">\n      </mat-form-field>\n\n      <mat-form-field class=\"example-full-width\">\n        <input matInput placeholder=\"How much time is wasted with this task\" value=\"\">\n             </mat-form-field>\n\n       <mat-form-field class=\"example-full-width\">\n        <textarea matInput placeholder=\"Could you detail your problem a little more?\n\"></textarea>\n      </mat-form-field>\n\n             <mat-form-field class=\"example-full-width\">\n        <textarea matInput placeholder=\"What would you say is a solution to your problem?\n\"></textarea>\n      </mat-form-field>\n\n    </form>\n\n\n      <button mat-button class=\"send-button\">Send</button>\n</div>"
+
+/***/ }),
+
+/***/ "../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NotdevelopedComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/esm5/core.js");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var NotdevelopedComponent = (function () {
+    function NotdevelopedComponent() {
+    }
+    NotdevelopedComponent.prototype.ngOnInit = function () {
+    };
+    NotdevelopedComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'app-notdeveloped',
+            template: __webpack_require__("../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/dashboard/notdeveloped/notdeveloped.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], NotdevelopedComponent);
+    return NotdevelopedComponent;
 }());
 
 

@@ -237,7 +237,7 @@ var CrisisDetailComponent = (function () {
     ], CrisisDetailComponent.prototype, "position", void 0);
     CrisisDetailComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            template: "\n  <div *ngIf=\"crisis\">\n    <h3>\"{{ editName }}\"</h3>\n    <div>\n      <label>Id: </label>{{ crisis.id }}</div>\n    <div>\n      <label>Name: </label>\n      <input [(ngModel)]=\"editName\" placeholder=\"name\"/>\n    </div>\n    <p>\n      <button (click)=\"save()\">Save</button>\n      <button (click)=\"cancel()\">Cancel</button>\n    </p>\n  </div>\n  ",
+            template: "\n  ",
             styles: ['input {width: 20em}'],
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["ActivatedRoute"],
@@ -283,7 +283,7 @@ var CrisisListComponent = (function () {
     };
     CrisisListComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Component"])({
-            template: "\nlist\n    <ul class=\"items\">\n      <li *ngFor=\"let crisis of crises$ | async\"\n        [class.selected]=\"crisis.id === selectedId\">\n        <a [routerLink]=\"[crisis.id]\">\n          <span class=\"badge\">{{ crisis.id }}</span>{{ crisis.name }}\n        </a>\n      </li>\n    </ul>\n\n    <router-outlet></router-outlet>\n  "
+            template: "\n  "
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__angular_router__["ActivatedRoute"]])
     ], CrisisListComponent);

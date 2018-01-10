@@ -76,7 +76,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "*{\n\t\tfont-family: \"electroluxSans\";\n}\n\nbody{\n       \tmargin: 0px;\n        padding: 0px;\n        border: 0px; \n    }\n\n@font-face {\n\tfont-family: \"electroluxSans\";\n    src: url(" + __webpack_require__("../../../../../src/assets/fonts/ElectroluxSans-Regular.woff") + ") format('woff');\n}\n\n@font-face {\n\tfont-family: \"electroluxSans\";\n    src: url(" + __webpack_require__("../../../../../src/assets/fonts/ElectroluxSans-SemiBold.woff") + ") format('woff');\n    font-weight: bold;\n}\n", ""]);
+exports.push([module.i, "*{\n\t\tfont-family: \"electroluxSans\";\n}\n\nbody{\n       \tmargin: 0px;\n        padding: 0px;\n        border: 0px;\n        height: 100vh; \n    }\n\n@font-face {\n\tfont-family: \"electroluxSans\";\n    src: url(" + __webpack_require__("../../../../../src/assets/fonts/ElectroluxSans-Regular.woff") + ") format('woff');\n}\n\n@font-face {\n\tfont-family: \"electroluxSans\";\n    src: url(" + __webpack_require__("../../../../../src/assets/fonts/ElectroluxSans-SemiBold.woff") + ") format('woff');\n    font-weight: bold;\n}\n", ""]);
 
 // exports
 
